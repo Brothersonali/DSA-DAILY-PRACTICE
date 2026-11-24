@@ -9,5 +9,5 @@ Day8: Four Sum(Leetcode 18)
 Day9: 3Sum Closest
 Day10: Missing Number
 Day11: Subarrays sums divisible by k
-Day12:
+Day12: Running Sum of 1D Array (Leetcode 1480)
 Day13:
